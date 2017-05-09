@@ -5,3 +5,4 @@ require_relative 'android/dex'
 require_relative 'android/resource'
 require_relative 'android/utils'
 require_relative 'android/layout'
+Zip.warn_invalid_date = false
